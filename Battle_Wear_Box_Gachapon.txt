@@ -1,0 +1,142 @@
+0.06%	Doily Wings (Dyeable)
+0.06%	Rune Wings (Dyeable) 
+0.06%	Black Bag(10x17) Coupon 
+0.08%	Altam 2nd Title Coupon 
+0.08%	Pihne 2nd Title Coupon
+0.08%	Special Newbie Shoes Type A (M) (Enchant: Resolution)
+0.08%	Special Newbie Shoes Type A (F) (Enchant: Resolution)
+0.11%	Tailoring Kit (Enchant: Brainstorm)
+0.16%	Pink Doily Wings
+0.14%	Ivory Doily Wings
+0.14%	Mint Doily Wings
+0.14%	Lilac Doily Wings
+0.14%	Chestnut Doily Wings
+0.14%	Pink Rune Wings
+0.14%	Ivory Rune Wings
+0.14%	Mint Rune Wings
+0.14%	Lilac Rune Wings
+0.14%	Chestnut Rune Wings
+0.14%	Special Battle Butler Long Outfit (M)
+0.14%	Special Battle Maid Long Outfit (F)
+0.14%	Special Battle Butler Short Outfit (M)
+0.14%	Special Battle Maid Short Outfit (F)
+0.16%	Talvish 2nd Title Coupon
+0.16%	Avelin 2nd Title Coupon
+0.16%	Caswyn Second Title Coupon
+0.16%	Llywelyn 2nd Title Coupon
+0.16%	Dignified Crazy Rich Milletian Wear (M)
+0.16%	Dignified Crazy Rich Milletian Fur Wear (M)
+0.16%	Dignified Crazy Rich Milletian Wear (F)
+0.16%	Dignified Crazy Rich Milletian Fur Wear (F)
+0.17%	Battle Butler Wig (M)
+0.17%	Battle Maid Wig (F)
+0.17%	Battle Butler Long Outfit (M)
+0.17%	Battle Maid Long Outfit (F)
+0.17%	Battle Butler Short Outfit (M)
+0.17%	Battle Maid Short Outfit (F)
+0.20%	Merlin 2nd Title Coupon
+0.20%	Professor J 2nd Title Coupon
+0.20%	Culinary Artist 2nd Title Coupon
+0.20%	Treasure Hunter 2nd Title Coupon
+0.23%	Battle Butler Wig and Hairtie (M)
+0.23%	Battle Maid Wig and Headband (F)
+0.25%	Battle Maid Headband (F)
+0.25%	Winged Gear Halo
+0.25%	Gear Halo
+0.28%	Battle Butler Gauntlets (M)
+0.28%	Battle Maid Gauntlets (F)
+0.28%	Battle Butler Shoes (M)
+0.28%	Battle Maid Shoes (F)
+0.31%	Hamelin Tuner (For Partner)
+0.31%	Deluxe Check Folio Coupon
+0.51%	Ring Torque (Enchant: Trustworthy)
+0.51%	Ring (Type 1) (Enchant: Haggler)
+0.51%	Celtic Cross (Enchant: Trader)
+0.39%	Crazy Rich Milletian Fur Scarf
+0.39%	Crazy Rich Milletian Wig (F)
+0.39%	Crazy Rich Milletian Wig (M)
+0.39%	Crazy Rich Milletian Heels (F)
+0.39%	Crazy Rich Milletian Shoes (M)
+0.39%	Crazy Rich Milletian Gloves (F)
+0.39%	Crazy Rich Milletian Gloves (M)
+0.47%	Vintage Walking Cane
+0.47%	Wine Tray
+0.47%	Luggage Trolley
+0.62%	Steampunk Dual Gun Appearance Scroll
+0.62%	Steampunk Staff Appearance Scroll
+0.62%	Steampunk Electric Knuckles Appearance Scroll
+0.62%	Steampunk Sword Appearance Scroll
+0.62%	Steampunk Shuriken Appearance Scroll
+0.47%	Brilluen Tail Suit (M)
+0.47%	Brilluen Tail Dress (F)
+0.47%	Random Color Warrior 2nd Title Coupon
+0.47%	Random Color Mage 2nd Title Coupon
+0.47%	Random Color Adventurer 2nd Title Coupon
+0.47%	Random Color Healer 2nd Title Coupon
+0.47%	Random Color Bard 2nd Title Coupon
+0.62%	Classy Check Folio Coupon
+0.70%	Astin Dashing Suit (Enchant: Encore)
+0.70%	Astin Shoes (Enchant: Composer's)
+0.70%	Zorro Mask (Enchant: Chorus)
+0.86%	Antique Cooking Knife
+0.86%	Antique Cooking Ladle
+0.86%	Antique Cooking Pot
+0.86%	Antique Cooking Table
+0.78%	Twilight Snowfield 2nd Title Coupon
+0.78%	Maltreat Fury 2nd Title Coupon
+0.78%	Frostblossom Footsteps 2nd Title Coupon
+0.93%	Starlet Circle Ear Cuffs (M) (Enchant: Oblivion) (Rank 1)
+0.93%	Starlet Circle Ear Cuffs (F) (Enchant: Oblivion) (Rank 1)
+0.93%	Starlet Circle Ear Cuffs (Elf Male) (Enchant: Oblivion) (Rank 1)
+0.93%	Starlet Circle Ear Cuffs (Elf Female) (Enchant: Oblivion) (Rank 1)
+0.93%	Check Folio Coupon
+0.78%	Mansion Parlor Studio Set
+1.09%	Lance Counter Training Potion
+1.09%	Lance Charge Training Potion
+1.09%	Charge Training Potion
+1.17%	Jumbo Fine Shopping Satchel Appearance Scroll
+1.17%	Fine Shopping Satchel Appearance Scroll
+1.17%	Pig Knife
+1.17%	Pig Table
+1.17%	Pig Ladle
+1.17%	Pig Cooking Pot
+1.17%	Star Candy Mace Appearance Scroll
+1.17%	Toy Hammer Appearance Scroll
+1.17%	Royal Prince Armor (Prefix: Basic) (Suffix: Avenger) (Rank 1)
+1.17%	Royal Princess Armor (Prefix: Basic) (Suffix: Avenger) (Rank 1)
+1.17%	Royal Prince Gauntlets (Prefix: Expansive) (Suffix: Elegant) (Rank 1)
+1.17%	Royal Princess Gauntlets (Prefix: Expansive) (Suffix: Elegant) (Rank 1)
+1.17%	Royal Prince Boots (Prefix: Fleet) (Suffix: Elegant) (Rank 1)
+1.17%	Royal Princess Boots (Prefix: Fleet) (Suffix: Elegant) (Rank 1)
+1.17%	Royal Prince Circlet (Prefix: Vine) (Suffix: Dexterity) (Rank 1)
+1.17%	Royal Princess Circlet (Prefix: Vine) (Suffix: Dexterity) (Rank 1)
+1.24%	Maid Dress - Short (Rank 1)
+1.24%	Maid Dress - Long (Rank 1)
+1.24%	Long Giant Maid Outfit (Rank 1)
+1.24%	Short Giant Maid Outfit (Rank 1)
+1.24%	Maid's Headpiece (Rank 1)
+1.24%	Bonnet (Rank 1)
+1.24%	Slippers (Rank 1)
+1.24%	Duster (Rank 1)
+1.40%	Fried Chicken Drumstick Appearance Scroll
+1.40%	Marinated Chicken Drumstick Appearance Scroll
+1.55%	Homestead Golden Sprout x10
+1.55%	Refined Afternoon Tea Table
+1.55%	Squirrel Rag Doll
+1.55%	Fennec Fox Rag Doll
+1.55%	Bear Rag Doll
+1.55%	Tiger Rag Doll
+1.55%	Rabbit Rag Doll
+1.55%	Partner Stress Relief Candy (100)
+1.55%	Combo: Charging Strike Training Potion
+1.55%	Combo: Focused Fist Training Potion
+1.55%	Combo: Spinning Uppercut Training Potion
+1.55%	Combo: Somersault Kick Training Potion
+1.55%	Combo: Drop Kick Training Potion
+1.55%	Combo: Pummel Training Potion
+1.55%	Combo Mastery Training Potion
+1.55%	Elegant Afternoon Tea Table
+1.48%	Blue Upgrade Stone x5
+1.48%	Red Upgrade Stone x5
+1.48%	Fine Gem Powder x5
+1.48%	Regular Gem Powder x5
